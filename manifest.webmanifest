@@ -5,5 +5,21 @@
   "scope": "./",
   "display": "standalone",
   "background_color": "#101d23",
-  "theme_color": "#101d23"
+  "theme_color": "#101d23",
+  "id": "./",
+  "description": "Stance training, custom workouts and a private local journal, with offline access after setup.",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
