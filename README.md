@@ -6,6 +6,8 @@ A buildless, responsive training app for desktop, iPad, iPhone, and Android devi
 
 The original routine is preserved exactly: 22 intervals, ten 15-second Horse Stance holds and twelve 30-second intervals, totaling 510 seconds (8:30). Progression creates a separate routine with 15, 20, 30, 40, 50 or 60-second Horse Stance holds. The original is never edited.
 
+A get-ready countdown runs once before the first circuit: 15 seconds by default, with 10 seconds or Off available in Session settings. Tap Start to begin preparation; the first stance starts automatically afterward. Pause/Resume preserves the countdown, and Reset restores it. Preparation does not change the 22 stance intervals or count toward journal training minutes.
+
 Features include Instructor Mode, optional speech and audio cues, circuits, transitions, recovery, a custom Workout Builder, and a Training Journal with CSV export.
 
 The timer pauses when the app is hidden or a long interruption is detected. Keep it visible during practice and tap Resume after returning. Screen wake lock is requested when available. Sessions that use Skip, Back or Go are not automatically counted as fully completed; record actual practice manually in the journal.
