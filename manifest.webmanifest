@@ -1,0 +1,9 @@
+{
+  "name": "Chang Wu Ch-Lin Training Studio",
+  "short_name": "Training Studio",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101d23",
+  "theme_color": "#101d23"
+}
