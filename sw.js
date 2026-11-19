@@ -1,7 +1,7 @@
 'use strict';
 // Bump this version whenever the app shell changes. Waiting updates activate
 // after all app windows close, so a training session is never reloaded.
-const CACHE = 'cwcl-studio-shell-v1';
+const CACHE = 'cwcl-studio-shell-v2';
 const BASE = new URL('./', self.location.href);
 const ASSETS = ['index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
 const urls = ASSETS.map(path => new URL(path, BASE).href);
